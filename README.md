@@ -76,7 +76,7 @@ flowchart LR
 6. **API**: el juego entrega preguntas categorizadas, en el idioma pedido y sin revelar la respuesta hasta que el jugador elige. Ver [API](#api).
 7. **Frontend**: el juego web pide las preguntas a la API, muestra las 4 opciones y deja que la API decida si la respuesta es correcta. Ver [Frontend (juego web)](#frontend-juego-web).
 
-## Tecnologías
+## Tecnologías 
 
 | Área | Herramientas |
 |---|---|
